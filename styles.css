@@ -1,0 +1,29 @@
+body {
+    font-family: 'Arial', sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: #f8f8f8;
+}
+
+.container {
+    max-width: 800px;
+    margin: 0 auto;
+    padding: 20px;
+    background-color: #fff;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    margin-top: 20px;
+}
+
+header {
+    text-align: center;
+    margin-bottom: 20px;
+}
+
+article {
+    line-height: 1.6;
+}
+
+footer {
+    text-align: right;
+    margin-top: 20px;
+}
